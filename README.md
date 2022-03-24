@@ -1,4 +1,13 @@
-# CS50PSET8
-CS50 Problem Set 8
--Contain at least four different .html pages, at least one of which is index.html (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
--Use at least ten (10) distinct HTML tags besides <html>, <head>, <body>, and <title>. Using some tag (e.g., <p>) multiple times still counts as just one (1) of those ten!
+# CS50-PSET8
+
+My exercises for the Harvard University Introduction to Computer Science Course: CS50 Week 8 - HTML, CSS, JavaScript
+
+Trivia: A simple webpage that lets users answer trivia questions - including multiple choice and text based free response questions that use Javascript logic.
+
+Homepage: A simple homepage using HTML, CSS, and JavaScript - including the following:
+- At least 4 different .html pages with hyperlinks to navigate between them 
+- At least 10 distinct HTML tags
+- At least 1 feature from bootstrap
+- At least 1 stylesheet of my own creation
+- At least 1 JavaScript feature of my own creation
+- Must work well on mobile devices as well as laptops & desktops
